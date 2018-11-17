@@ -1,2 +1,2 @@
-# 3D-Gem
-Minore
+# Nepali Handwriting recognition CNN
+Major
